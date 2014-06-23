@@ -1,0 +1,15 @@
+{
+    "name": "woodworker/ugallery",
+    "description": "a µ gallery script",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Martin Holzhauer",
+            "email": "martin@holzhauer.eu"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    }
+}
